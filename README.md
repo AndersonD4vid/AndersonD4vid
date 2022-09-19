@@ -3,7 +3,7 @@
 ### Front-end Web💻 e Mobile📱
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&theme=github_dark" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&theme=github_dark" />
