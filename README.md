@@ -2,14 +2,12 @@
 
 ### Front-end Web💻 e Mobile📱
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&theme=github_dark" />
-</a>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
-<br><br><br>
+<br><br>
 
 <h3>Conhecimento e tecnologia</h3>
 <div>
