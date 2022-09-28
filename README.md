@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-<br><br>
+##
 
 ### Meus conhecimentos
 
@@ -20,6 +20,7 @@
 ![Node.JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white")
+
 ##
   
 ### 📩 Contato
