@@ -23,7 +23,9 @@
 
 ##
 
-![snake gif](https://github.com/AndersonD4vid/AndersonD4vid/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  ![snake gif](https://github.com/AndersonD4vid/AndersonD4vid/blob/output/github-contribution-grid-snake.gif)
+</div>
 
   
 ### 📩 Contato
