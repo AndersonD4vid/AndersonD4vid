@@ -23,9 +23,8 @@
 
 ##
 
-<div align="center">
-  https://github.com/AndersonD4vid/AndersonD4vid/blob/output/github-contribution-grid-snake.gif
-</div>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
   
 ### 📩 Contato
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersond4vid/)
