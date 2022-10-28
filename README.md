@@ -22,6 +22,8 @@
 ![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white")
 
 ##
+
+![Snake animation](https://github.com/AndersonD4vid/AndersonD4vid/blob/output/github-contribution-grid-snake.svg)
   
 ### 📩 Contato
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersond4vid/)
