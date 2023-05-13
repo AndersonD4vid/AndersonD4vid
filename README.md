@@ -23,7 +23,7 @@
 
 ##
 
-![snake gif](https://github.com/AndersonD4vid/AndersonD4vid/blob/output/github-contribution-grid-snake.gif)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndersonD4vid&bg_color=0d1117&color=3584B1&line=3584B1&point=3D35B1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 ### 📩 Entre em contato
