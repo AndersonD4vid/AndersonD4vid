@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91a8ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Anderson;Tenho+22+anos;Sou+do+Brasil;Seja+muito+bem-vindo(a)+:%29)](https://git.io/typing-svg).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91a8ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Anderson;Tenho+22+anos;Sou+do+Brasil;Seja+muito+bem-vindo(a)+:%29)](https://git.io/typing-svg)
+
+##
 
 ### Desenvolvedor Front-end Web e Mobile.
 
