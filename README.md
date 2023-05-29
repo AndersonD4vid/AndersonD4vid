@@ -2,29 +2,27 @@
 
 ### Desenvolvedor Front-end Web e Mobile.
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&langs_count=8&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&count_private=true&hide_border=true&title_color=91a8ff&icon_color=91a8ff&text_color=c9d1d9&bg_color=0d1117" alt="Victor Soares github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=true&title_color=91a8ff&text_color=91a8ff&bg_color=0d1117" />
 </div>
 
 ##
 
 ### Com conhecimentos em
-
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React-Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase%20-%23323330.svg?&style=for-the-badge&logo=firebase&logoColor=%#FFCA28)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,firebase,react,git,&perline=10)](https://skillicons.dev)
 
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndersonD4vid&bg_color=0d1117&color=3584B1&line=3584B1&point=3D35B1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndersonD4vid&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{anderdonD4vid}/count.svg" /></p> 
+<br>
+</div>
 
   
 ### 📩 Entre em contato
