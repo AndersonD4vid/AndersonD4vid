@@ -2,7 +2,7 @@
 
 ##
 
-### Desenvolvedor Front-end Web e Mobile.
+### Desenvolvedor Front-end Web e Mobile. (Futuro Full Stack Developer)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&count_private=true&hide_border=true&title_color=91a8ff&icon_color=91a8ff&text_color=c9d1d9&bg_color=0d1117" alt="Victor Soares github stats" /> 
@@ -12,8 +12,13 @@
 ##
 
 ### Com conhecimentos em
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,firebase,react,git,&perline=10)](https://skillicons.dev)
+Html, Css, Javascript, Bootstrap, Styled-Components, Firebase, React/ReactNative e Git.
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,firebase,react,git,,&perline=10)](https://skillicons.dev)
 
+### Estundando backend com
+Node.Js, PostgreSQL, Prisma, Supabase e Next.js.
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,nextjs,&perline=10)](https://skillicons.dev)
 
 ##
 
