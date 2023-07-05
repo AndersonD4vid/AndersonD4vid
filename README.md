@@ -11,14 +11,14 @@
 
 ##
 
-### Com conhecimentos em
-Html, Css, Javascript, Bootstrap, Styled-Components, Firebase, React/ReactNative e Git.
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,firebase,react,git,,&perline=10)](https://skillicons.dev)
+### 💻 Fron-tend e Versionamento
+Html, Css, Javascript, Bootstrap, Styled-Components, Firebase, React/ReactNativ, Next.js (Básico) e Git.
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,firebase,react,nextjs,git,,&perline=10)](https://skillicons.dev)
 
-### Estundando backend com
-Node.Js, PostgreSQL, Prisma, Supabase e Next.js.
+### ⚙️ Back-end e banco de dados (Estudando...)
+Node.Js, Express, PostgreSQL com Prisma, Supabase.
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,nextjs,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase,&perline=10)](https://skillicons.dev)
 
 ##
 
