@@ -12,7 +12,7 @@
 ##
 
 ### 💻 Fron-tend e Versionamento
-Html, Css, Javascript, Bootstrap, Styled-Components, Firebase, React/ReactNativ, Next.js (Básico) e Git.
+Html, Css, Javascript, Bootstrap, Styled-Components, Firebase, React/ReactNative, Next.js (Básico) e Git.
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,firebase,react,nextjs,git,,&perline=10)](https://skillicons.dev)
 
 ### ⚙️ Back-end e banco de dados (Estudando...)
