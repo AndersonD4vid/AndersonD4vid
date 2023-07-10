@@ -12,13 +12,13 @@
 ##
 
 ### 💻 Fron-tend e Versionamento
-Html, Css, Javascript, Bootstrap, Styled-Components,TailwindCSS,Firebase, React/ReactNative, Next.js (Básico) e Git.
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,tailwindcss,firebase,react,nextjs,git,,&perline=10)](https://skillicons.dev)
+Html, Css, Javascript, Bootstrap, Styled-Components,React/ReactNative, Next.js (Básico) e Git.
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,tailwindcss,react,nextjs,git,,&perline=10)](https://skillicons.dev)
 
 ### ⚙️ Back-end e banco de dados (Estudando...)
-Node.Js, PostgreSQL com Prisma, Supabase.
+Node.Js, PostgreSQL,Prisma,Firebase,Supabase.
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,firebase,supabase,&perline=10)](https://skillicons.dev)
 
 ##
 
