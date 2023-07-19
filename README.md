@@ -34,7 +34,7 @@ Html, Css, Javascript, Bootstrap, Styled-Components React, ReactNative, Next.js 
 
 <br/> 
 
-# ⚙️ Back-end e banco de dados (Estudando...)
+# ⚙️ Back-end e banco de dado
 Node.Js,PostgreSQL,Prisma,Firebase, Supabase.
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,firebase,supabase,&perline=10)](https://skillicons.dev)
