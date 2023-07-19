@@ -2,12 +2,12 @@
 
 ##
 
-# Desenvolvedor Front-end Web e Mobile. (Futuro Full Stack Developer)
+# Desenvolvedor Full Stack
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndersonD4vid&show_icons=true&count_private=true&hide_border=true&title_color=91a8ff&icon_color=91a8ff&text_color=c9d1d9&bg_color=0d1117" alt="Victor Soares github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=true&title_color=91a8ff&text_color=91a8ff&bg_color=0d1117" />
-</div>
+
+![](https://streak-stats.demolab.com/?user=AndersonD4vid&theme=dark)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=true&title_color=91a8ff&text_color=91a8ff&bg_color=0d1117" />
+
 
 ##
 
@@ -26,11 +26,13 @@ Agradeço a todos que leram até aqui, espero ajudar outras pessoas com o meu co
 - Português Nativo
 - Inglês B1 <a href="https://www.google.com/search?q=ingles+b1+que+significa&oq=ingles+b1&aqs=chrome.2.69i57j0i10i512j0i512j0i10i512l2j0i512l2j0i22i30l3.3838j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Entenda mais aqui</a>
 
-##
+<br/> 
 
-# 💻 Front-tend e Versionamento
+# 💻 Front-tend Web & Mobile com ReactNative
 Html, Css, Javascript, Bootstrap, Styled-Components React, ReactNative, Next.js e Git.
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,tailwindcss,react,nextjs,git,,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,tailwindcss,react,nextjs,git,&perline=10)](https://skillicons.dev)
+
+<br/> 
 
 # ⚙️ Back-end e banco de dados (Estudando...)
 Node.Js,PostgreSQL,Prisma,Firebase, Supabase.
