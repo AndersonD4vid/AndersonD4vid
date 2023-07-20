@@ -2,7 +2,7 @@
 
 ##
 
-# Desenvolvedor Full Stack
+# Desenvolvedor Full Stack Junior
 
 
 ![](https://streak-stats.demolab.com/?user=AndersonD4vid&theme=dark)
@@ -12,7 +12,11 @@
 ##
 
 # Sobre mim
-Olá, meu nome é Anderson sou Desenvolvedor Frontend Júnior e também UX/UI designer, tenho 22 anos! 
+Olá, meu nome é Anderson, também sou UX/UI designer, tenho 22 anos.
+
+Já atuei em projeto mediano como Sistema de Reservas de Viagens com integração de pagamento com a Stripe. 
+
+Também atuei no desenvolvimento de um aplicativo de aprendizagem para fonoaudiologia, a aplicação tem como objetivo ensinar de forma prática a comunicação, movimentação, fala e audiologia através de vídeos dentro do aplicativo. 
 
 Meu primeiro contato com a tecnologia foi em 2016 quando eu jogava Minecraft, foi onde comecei a estudar Java e a criar meus primeiros plugins em Java junto com um amigo para nosso servidor,
 não gostava muito de Java então logo pensei, vou deixar essa parte de desenvolvimento de plugins para meu amigo e começar a criar o site para vender os VIPS do servidor, ainda em 2016, comecei a estudar HTML, CSS e o básico de JavaScript, pegava aqueles botão de pagamento do PayPal que a gente criava no painel e colocava no site como se fosse loja integrada haha, foi aí que vi o quanto a tecnologia era incrível, também comecei a estudar constantemente inglês porque a maioria das documentações era em inglês, então estudava pelo menos 10 minutos por dia, isso foi o que me ajudou muito a ler em inglês e acabou atrapalhando um pouco também, porque aprendi a ler mais do que falar (risos), mas consequentemente com o tempo fui aprendendo a falar aos poucos e hoje me sinto um pouco confortável a me expressar em poucas ocasiões. 
