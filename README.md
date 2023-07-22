@@ -9,7 +9,56 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=true&title_color=91a8ff&text_color=91a8ff&bg_color=0d1117" />
 
 
+
 ##
+
+# Projetos em Destaques
+
+<div>
+   <div>
+   <strong>
+   <a href="https://github.com/AndersonD4vid/fsw-trips" target="_blank">
+   ✪ Sistema Reservas de Viagens
+   </a></strong>
+   <p>
+   Full Stack Week - Projeto completo com Next.js, TailwindCSS,<br/> 
+   TypeScript, Node.Js, PostgreSQL com Prisma, Supabase e checkout <br/>  
+   de pagamento pela Stripe.
+   </p>
+   </div>
+
+   <div>
+   <strong>
+   <a href="https://github.com/AndersonD4vid/sistema-de-chamado" target="_blank">
+   ✪ Sistema de Chamados
+   </a></strong>
+   <p>
+   Projeto completo com React, firebase Authentication, Firestore e Cloud Storage.<br/> 
+   Você pode cadastrar um cliente, abrir um chamado <br/> 
+   selecionando o cliente desejado, pode editar o chamado, <br/> 
+   excluir um chamado e visualizar todos os clientes  <br/> 
+   cadastrados no sistema.
+   </p>
+   </div>
+
+   <div>
+   <strong>
+   <a href="https://github.com/AndersonD4vid/backend-devHouse" target="_blank">
+   ✪ Backend Reserva De Casas
+   </a></strong>
+   <p>
+   Projeto backend completo com Node.Js e MongoDB. Podemos criar uma <br/>
+   conta e se já existir apenas loga o usuário, podemos criar um anúncio de <br/> 
+   uma casa, reservar uma casa, editar dados de uma reserva, cancelar a reserva, listar <br/>
+   todas as reservas, listar as reservas do usuário logado
+   </p>
+   </div>
+
+   
+</div>
+
+##
+
 
 # Sobre mim
 Olá, meu nome é Anderson, também sou UX/UI designer, tenho 22 anos.
