@@ -81,7 +81,7 @@ Agradeço a todos que leram até aqui, espero ajudar outras pessoas com o meu co
 
 <br/> 
 
-# 💻 Front-tend Web & Mobile com ReactNative
+# 💻 Front-end Web & Mobile com ReactNative
 Html, Css, Javascript, Bootstrap, Styled-Components React, ReactNative, Next.js e Git.
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,tailwindcss,react,nextjs,git,&perline=10)](https://skillicons.dev)
 
