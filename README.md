@@ -2,7 +2,7 @@
 
 ##
 
-# Desenvolvedor Full Stack Junior
+# Desenvolvedor Full Stack
 
 
 ![](https://streak-stats.demolab.com/?user=AndersonD4vid&theme=dark)
