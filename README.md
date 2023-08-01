@@ -5,8 +5,8 @@
 # Desenvolvedor Full Stack
 
 
-![](https://streak-stats.demolab.com/?user=AndersonD4vid&theme=dark)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=true&title_color=91a8ff&text_color=91a8ff&bg_color=0d1117" />
+![](https://streak-stats.demolab.com/?user=AndersonD4vid&theme=white)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=true&title_color=000&text_color=91a8ff&bg_color=ffff" />
 
 
 
