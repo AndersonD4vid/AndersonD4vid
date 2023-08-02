@@ -81,14 +81,14 @@ Agradeço a todos que leram até aqui, espero ajudar outras pessoas com o meu co
 
 <br/> 
 
-# 💻 Front-end Web & Mobile com ReactNative
+# 💻 Front-end
 Html, Css, Javascript, Bootstrap, Styled-Components React, ReactNative, Next.js e Git.
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,styledcomponents,tailwindcss,react,nextjs,git,&perline=10)](https://skillicons.dev)
 
 <br/> 
 
 # ⚙️ Back-end e Banco de Dados
-Node.Js,PostgreSQL,Prisma,Firebase, Supabase.
+Node.Js,PostgreSQL,Prisma (ORM),Firebase, Supabase.
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,firebase,supabase,&perline=10)](https://skillicons.dev)
 
