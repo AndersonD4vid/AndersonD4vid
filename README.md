@@ -6,7 +6,7 @@
 
 
 ![](https://streak-stats.demolab.com/?user=AndersonD4vid&theme=dark)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=true&title_color=blue&text_color=91a8ff&bg_color=000" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=false&title_color=blue&text_color=91a8ff&bg_color=151515" />
 
 
 
