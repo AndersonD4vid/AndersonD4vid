@@ -12,17 +12,24 @@
 
 ##
 
-# Aplicativos/Sites desenvolvidos
+# Aplicativos/Sites em destaques
 
 <strong>
    <a href="https://app.redepublica.org/" target="_blank">
    ✪ Aplicativo Rede Pública
    </a></strong>
+<br/>
 
 <strong>
    <a href="https://play.google.com/store/apps/details?id=com.teleprompteradsm" target="_blank">
    ✪ Aplicativo Teleprompter
    </a></strong>
+
+<strong>
+   <a href="https://infortectelecom.net.br/" target="_blank">
+   ✪ Site Infortec Telecom
+   </a></strong>
+<br/>
    
 # Projetos em Destaques
 
