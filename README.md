@@ -12,6 +12,18 @@
 
 ##
 
+# Aplicativos/Sites desenvolvidos
+
+<strong>
+   <a href="https://app.redepublica.org/" target="_blank">
+   ✪ Aplicativo Rede Pública
+   </a></strong>
+
+<strong>
+   <a href="https://play.google.com/store/apps/details?id=com.teleprompteradsm" target="_blank">
+   ✪ Aplicativo Teleprompter
+   </a></strong>
+   
 # Projetos em Destaques
 
 <div>
@@ -58,6 +70,7 @@
 </div>
 
 ##
+
 
 
 # Sobre mim
