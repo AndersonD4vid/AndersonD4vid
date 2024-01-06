@@ -24,7 +24,7 @@
    <a href="https://play.google.com/store/apps/details?id=com.teleprompteradsm" target="_blank">
    ✪ Aplicativo Teleprompter
    </a></strong>
-
+<br/>
 <strong>
    <a href="https://infortectelecom.net.br/" target="_blank">
    ✪ Site Infortec Telecom
