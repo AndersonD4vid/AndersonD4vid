@@ -81,7 +81,7 @@
 
 
 # Sobre mim
-Olá, meu nome é Anderson, também sou UX/UI designer, tenho 22 anos.
+Olá, meu nome é Anderson, também sou UX/UI designer, tenho 23 anos.
 
 Já atuei em projeto mediano como Sistema de Reservas de Viagens com integração de pagamento com a Stripe. 
 
