@@ -83,7 +83,7 @@
 # Sobre mim
 Olá, meu nome é Anderson, também sou UX/UI designer, tenho 23 anos.
 
-Já atuei em projeto mediano como Sistema de Reservas de Viagens com integração de pagamento com a Stripe. 
+Já atuei em projetos como Sistema de Reservas de Viagens com integração de pagamento com a Stripe. 
 
 Também atuei no desenvolvimento de um aplicativo de aprendizagem para fonoaudiologia, a aplicação tem como objetivo ensinar de forma prática a comunicação, movimentação, fala e audiologia através de vídeos dentro do aplicativo. 
 
