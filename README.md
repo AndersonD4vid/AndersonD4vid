@@ -48,7 +48,7 @@ Minha trajetória no desenvolvimento de software tem sido cheia de desafios e ap
 
 <br/> 
 
-# 💻 Tecnologias que eu uso no meu dia
+# 💻 Tecnologias que eu uso no meu dia-a-dia
 Html, Css, Styled-Components, Bootstrap, Javascript, NodeJs,  React, ReactNative, Firebase e Git.
 [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,bootstrap,javascript,nodejs,react,firebase,git,&perline=10)](https://skillicons.dev)
 
