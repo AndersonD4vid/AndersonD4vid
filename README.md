@@ -15,8 +15,8 @@
 # Sites/Aplicativos em destaques
 
 <strong>
-   <a href="https://porkinho.online/" target="_blank">
-   ✪ Site | Porkinho
+   <a href="#" target="_blank">
+   ✪ Site | Porkinho - Lançamento em breve
    </a></strong>
 <br/>
 
