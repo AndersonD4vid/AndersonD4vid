@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91a8ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Anderson;Seja+muito+bem-vindo(a)+:%29)](https://git.io/typing-svg)
-
-##
-
-# Desenvolvedor Full Stack Pleno
+# Anderson - Desenvolvedor Senior
 ![](https://streak-stats.demolab.com/?user=AndersonD4vid&&layout=DonutVerticalChart&theme=dark)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD4vid&layout=compact&hide_border=false&title_color=blue&text_color=91a8ff&bg_color=151515" />
 
@@ -10,11 +6,11 @@
 
 ##
 
-# Sites / Aplicativos em destaques
+# Projetos em destaques
 
 <strong>
-   <a href="#" target="_blank">
-   ✪ Site | Link do Bem 2.0 - Lançamento em breve
+   <a href="https://link.redepublica.org/tv/" target="_blank">
+   ✪ Site | Link do Bem
    </a></strong>
 <br/>
 
@@ -31,14 +27,10 @@
 <br/>
 
 # Sobre mim
-Olá, meu nome é Anderson!
 
-Sou um desenvolvedor de software com experiência em grandes projetos, atuando desde o planejamento até o desenvolvimento final. Comecei minha jornada na tecnologia em 2016 e me especializei no início de 2020.
-
-Em 2016, quando comecei a explorar HTML, CSS e JavaScript. Naquela época, eu me divertia criando lojas integradas com botões de pagamento do PayPal, o que despertou meu interesse pelo desenvolvimento web e de aplicativos.
-
-Minha trajetória no desenvolvimento de software tem sido cheia de desafios e aprendizados. Agradeço a todos que acompanharam minha história e espero poder compartilhar meu conhecimento com outros, além de continuar aprendendo sempre.
-
+- 👨‍💻+5 anos de experiência
+- 💡 Soluções para sites e aplicativos
+- 📈 Vasta experiência
 
 # Idiomas:
 - Português Nativo
@@ -46,11 +38,10 @@ Minha trajetória no desenvolvimento de software tem sido cheia de desafios e ap
 
 <br/> 
 
-# 💻 Tecnologias que eu uso no meu dia-a-dia
- Javascript, NodeJs,  React, ReactNative, Firebase, Html, Css, Styled-Components, Bootstrap, e Git.
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,firebase,html,css,styledcomponents,bootstrap,git,&perline=10)](https://skillicons.dev)
+# 💻 Tecnologias do dia-a-dia
+ Javascript, NodeJs,  React, ReactNative, mongoDB, Firebase, Html, Css, Styled-Components, Bootstrap, e Git.
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,mongo,firebase,html,css,styledcomponents,bootstrap,git,&perline=10)](https://skillicons.dev)
 
-<br/> 
 
 # ⚙️ Outros conhecimentos
 Tailwindcss, Next.js, PostgreSQL, Prisma (ORM), Supabase.
