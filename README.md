@@ -9,7 +9,7 @@
 # Projetos em destaques
 
 <strong>
-   <a href="https://link.redepublica.org/tv/" target="_blank">
+   <a href="https://tv.linkdobem.org/" target="_blank">
    ✪ Site | Link do Bem
    </a></strong>
 <br/>
