@@ -38,15 +38,15 @@
 
 <br/> 
 
-# 💻 Tecnologias do dia-a-dia
- Javascript, NodeJs,  React, ReactNative, mongoDB, Firebase, Html, Css, Styled-Components, Bootstrap, e Git.
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,mongo,firebase,html,css,styledcomponents,bootstrap,git,&perline=10)](https://skillicons.dev)
+# 💻 Stacks do dia-a-dia
+ Javascript, NodeJs,  React, ReactNative, Next.js, mongoDB, Firebase<br/> 
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,mongo,firebase,&perline=10)](https://skillicons.dev)
 
 
-# ⚙️ Outros conhecimentos
-Tailwindcss, Next.js, PostgreSQL, Prisma (ORM), Supabase.
+# ⚙️ Outros
+PostgreSQL, Prisma (ORM), Supabase.
 
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,nextjs,postgres,prisma,supabase,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,supabase,&perline=10)](https://skillicons.dev)
 
 ##
 
