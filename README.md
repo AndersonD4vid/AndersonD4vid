@@ -32,21 +32,22 @@
 - 💡 Soluções para sites e aplicativos
 - 📈 Vasta experiência
 
-# Idiomas:
-- Português Nativo
-- Inglês pré-intermediário
-
 <br/> 
 
 # 💻 Stacks do dia-a-dia
- Javascript, NodeJs,  React, ReactNative, Next.js, mongoDB, Firebase<br/> 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,mongo,firebase,&perline=10)](https://skillicons.dev)
+ Javascript, NodeJs,  React, ReactNative, Next.js, Prisma (ORM), mongoDB, Firebase e Supabase<br/> 
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,nextjs,prisma,mongo,firebase,supabase&perline=10)](https://skillicons.dev)
 
 
 # ⚙️ Outros
-PostgreSQL, Prisma (ORM), Supabase.
+PostgreSQL.
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,supabase,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,&perline=10)](https://skillicons.dev)
+
+
+# Idiomas:
+- Português Nativo
+- Inglês pré-intermediário
 
 ##
 
